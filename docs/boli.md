@@ -13,39 +13,39 @@ format:
 
 <h2 align="center">A. 内径尺寸</h2>
 
-![alt text](内径-长-全景.png){width="2560px"}
+![alt text](内径-长-全景.jpeg)
 **🏞️ 图1. 内径-长-全景**
 
 ***
 
-![alt text](内径-长-特写.png){width="2560px"}
+![alt text](内径-长-特写.jpeg)
 **🏞️ 图2. 内径-长-特写**
 
 ***
 
-![alt text](内径-宽-全景.png){width="2560px"}
+![alt text](内径-宽-全景.jpeg)
 **🏞️ 图3. 内径-宽-全景**
 
 ***
 
-![alt text](内径-宽-特写.png){width="2560px"}
+![alt text](内径-宽-特写.jpeg)
 **🏞️ 图4. 内径-宽-特写**
 
 ***
 
 <h2 align="center">B. 外径尺寸</h2>
 
-![alt text](外径-长-全景.png){width="2560px"}
+![alt text](外径-长-全景.jpeg)
 **🏞️ 图5. 外径-长-全景**
 
 ***
 
-![alt text](外径-长-特写.png){width="2560px"}
+![alt text](外径-长-特写.jpeg)
 **🏞️ 图6. 外径-长-特写**
 
 ***
 
-![alt text](外径-宽-全景.png){width="2560px"}
+![alt text](外径-宽-全景.jpeg)
 **🏞️ 图7. 外径-宽-全景**
 
 ***
